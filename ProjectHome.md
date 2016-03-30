@@ -1,0 +1,1 @@
+sip is a self-hosted bloging system like a wordpress. Sip is writen in PHP and JavaScript and using MySQL database system
